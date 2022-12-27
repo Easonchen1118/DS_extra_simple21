@@ -1,5 +1,5 @@
 #include <stdio.h>
-//最大值與最小值
+//最大值與最小值https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30786
 int main(){
     float num[10];
     float max, min;
